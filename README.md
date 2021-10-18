@@ -11,3 +11,6 @@ $ git config --global user.email IsiDenganEmailAnda@gmail.com
 Selanjutnya untuk memastikan proses login Anda berhasil, masukkan perintah berikut.
 
 $ git config --list
+![2021-10-18](https://user-images.githubusercontent.com/92696202/137738597-7612fa33-7254-4855-b9c9-9bacb2885c49.png)
+# Jalankan perintah git init.untuk membuat repositori lokal
+git init
